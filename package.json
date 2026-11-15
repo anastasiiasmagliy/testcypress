@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/anastasiiasmagliy/testcypress/issues"
   },
-  "homepage": "https://github.com/anastasiiasmagliy/testcypress#readme"
+  "homepage": "https://github.com/anastasiiasmagliy/testcypress#readme",
+  "devDependencies": {
+    "cypress": "^16.3.0"
+  }
 }
